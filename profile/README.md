@@ -1,12 +1,14 @@
 ## Welcome To Legion Emulation Project
 
-<!--
+## Current Projects
+- World of Warcraft Legion
+- [LegionCore](https://github.com/LegionEmulationProject/LegionCore-7.3.5)
+- [AshamaneCore](https://github.com/LegionEmulationProject/AshamaneCore)
+- [TrinityCore](https://github.com/LegionEmulationProject/TrinityCore)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## LegionCore
+- Based on uWoW Leak with updated Phasing system and updated build requirements
+## AshamaneCore
+- Based on Trinitycore needs alot of work. NOT RECOMMENED FOR NEW USERS
+## Trinitycore
+- Updated Trinitycore Source To Support Legion With Commits From Trinitycore
