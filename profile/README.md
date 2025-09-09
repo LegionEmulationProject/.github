@@ -1,7 +1,6 @@
 ## Welcome To Legion Emulation Project
 
 ## Current Projects
-- World of Warcraft Legion
 - [LegionCore](https://github.com/LegionEmulationProject/LegionCore-7.3.5)
 - [AshamaneCore](https://github.com/LegionEmulationProject/AshamaneCore)
 - [TrinityCore](https://github.com/LegionEmulationProject/TrinityCore)
