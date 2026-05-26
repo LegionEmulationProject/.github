@@ -1,7 +1,5 @@
 ## Welcome To Legion Emulation Project
 
-## Current Projects
-
 ## - [AshamaneCore](https://github.com/LegionEmulationProject/AshamaneCore)
 - Based on Trinitycore with alot of work done by the original Ashamane Project.
 - Currently gettings updates from trinitycore commits.
